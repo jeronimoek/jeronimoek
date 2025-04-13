@@ -6,7 +6,7 @@ I am an experienced self-taught FullStack Javascript Web Developer👩‍💻!
 
 With my years of experience, I feel confident when tackling new challenges, being always open to learn brand new technologies in the way. 🧠
 
-I have my [portfolio page here](https://jeronimoek.com/) 💼
+I have my [portfolio website here](https://jeronimoek.com/) 💼
 
 In my free time I also like to contribute to open source code, like my [Color Picker extension](https://github.com/jeronimoek/color-picker-universal) for VSCode 🛜
 
