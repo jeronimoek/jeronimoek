@@ -21,7 +21,7 @@ Web Development | User Story Analysis | Team Work (SCRUM) ...
 
 
 - 🔭 I’m currently working in Spain
-- 🌱 I’m currently learning Blockchain and Cloud services (AWS) 
+- 🌱 I’m currently learning Blockchain and improving my Cloud services (AWS) knowledge
 - 📫 How to reach me: jeronimoek@gmail.com
 
 
